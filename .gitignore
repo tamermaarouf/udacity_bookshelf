@@ -117,6 +117,9 @@ venv.bak/
 .ven
 .venv
 ven/
+*/ven/*
+**/ven
+**/ven/*
 venv/
 ven.bak/
 venv.bak/
