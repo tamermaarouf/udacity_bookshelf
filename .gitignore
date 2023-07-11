@@ -1,8 +1,11 @@
 node_modules
-ven
+/ven
 .vscode
+ven
+ven/*
 __pycache__
 */node_modules
 */ven
+*/ven/*
 */.vscode
 */__pycache__
